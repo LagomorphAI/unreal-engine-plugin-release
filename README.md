@@ -9,6 +9,7 @@
 ## Installation
  - Download the zipped plugin to your machine
  - Create a ``Plugins`` folder at the top level of your Unreal Engine Project folder
- - Extract the downloaded zip file into the plugins folder, then restart Unreal Engine.
+ - Create a ``lagomorph`` folder in the ``Plugins`` folder
+ - Extract the contents of the downloaded zip file into the ``lagomorph`` folder, then restart Unreal Engine.
  - Open your project in Unreal Engine and ensure that the ``Lagomorph Plugin`` is enabled
  - Launch the plugin from ``Tools > Lagomorph Plugin`` 
